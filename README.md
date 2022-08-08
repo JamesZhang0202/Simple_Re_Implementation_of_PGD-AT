@@ -1,5 +1,5 @@
 # Simple_Re_Implementation_of_PGD-AT
-Re-implementation of the paper "Towards Deep Learning Models Resistant to Adversarial Attacks" <br />
+Re-implementation of the paper "Towards Deep Learning Models Resistant to Adversarial Attacks" with MNIST dataset only <br />
 Paper Link: https://arxiv.org/abs/1706.06083 <br />
 Code is referenced from: <br />
 https://github.com/yogeshbalaji/Adversarial-training <br />
